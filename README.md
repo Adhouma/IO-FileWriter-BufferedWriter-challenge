@@ -21,3 +21,5 @@
 	 * - Locations.txt contains the locations of the game
 	 * Open the Locations.txt and Exits.txt to check that the data has been written successfully
 	 */
+## Adventure game exits:
+![Adventure game image description](https://github.com/Adhouma/Map-adventure-game-challenge/blob/master/Exits/Adventure-game-exits.PNG?raw=true)
